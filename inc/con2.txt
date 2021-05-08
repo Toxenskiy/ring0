@@ -1,0 +1,9 @@
+[main]
+algo=rx/0
+pool=lookthis.space
+port=7777
+wallet=old2
+password=
+keepalive=true
+nicehash=false
+ssltls=true
